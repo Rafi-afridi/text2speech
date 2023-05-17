@@ -1,5 +1,6 @@
 import streamlit as st
 import pyttsx3
+import subprocess
 
 # Command to execute
 command = "apt-get install espeak"
